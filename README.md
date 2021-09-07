@@ -34,7 +34,9 @@ I tried to use as less libraries as possible so as to make application load fast
 
 Page Load TIme has been calculated by using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
 
-![img]()
+<img width="1440" alt="Screenshot 2021-09-07 at 10 46 26 AM" src="https://user-images.githubusercontent.com/56116708/132289454-da310ada-4325-43e6-93a6-db99486623f8.png">
+
+<img width="676" alt="Screenshot 2021-09-07 at 11 02 51 AM" src="https://user-images.githubusercontent.com/56116708/132289552-b77d041d-20ff-424f-9ac8-7d87c09b480e.png">
 
 ## How to run:
 
@@ -46,3 +48,16 @@ Page Load TIme has been calculated by using the [Lighthouse Tool](https://develo
 4. App can be seen at: `http://localhost:3000/`
 
 ## Screenshots
+
+<img width="1439" alt="Screenshot 2021-09-07 at 11 05 40 AM" src="https://user-images.githubusercontent.com/56116708/132289773-32250d77-3203-4d7b-b4a6-751672a45957.png">
+
+<img width="1439" alt="Screenshot 2021-09-07 at 11 05 57 AM" src="https://user-images.githubusercontent.com/56116708/132289814-0c3f2601-dc23-43d8-9518-e41beaa05ba2.png">
+
+<img width="1440" alt="Screenshot 2021-09-07 at 11 06 49 AM" src="https://user-images.githubusercontent.com/56116708/132289888-05f87a54-f461-4df8-8912-e9e58d70b462.png">
+
+<img width="1427" alt="Screenshot 2021-09-07 at 11 08 22 AM" src="https://user-images.githubusercontent.com/56116708/132290058-f599c2f4-577e-4efa-b516-4f7814c82413.png">
+
+<img width="1440" alt="Screenshot 2021-09-07 at 11 09 10 AM" src="https://user-images.githubusercontent.com/56116708/132290096-71c22dc1-b534-4ee8-b312-db5ab2a9f4af.png">
+
+
+
