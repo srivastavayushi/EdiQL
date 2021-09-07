@@ -35,7 +35,7 @@ export const DEFAULT_STRINGS = {
   WELCOME_MESSAGE_TITLE: "Welcome to SQL QUERY EDITOR",
   WELCOME_MESSAGE_SUBTITLE: "To get started, Enter and Run a Query",
   WELCOME_MESSAGE_DATABASE: "To see the database, Select tables",
-  APP_TITLE: "SQL EDITOR",
+  APP_TITLE: "EdiQL",
   IMPORT_DATA: "Import Data",
   NO_TABLES_EXIST: "No table exists",
   IMPORT_NEW_DATA_MESSAGE: "Please import data to the Editor",
