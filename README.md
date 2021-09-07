@@ -4,7 +4,7 @@
 
 You can check out the application at : **https://edi-ql.vercel.app/**
 
-The application fulfils all the requirements that were mentioned by team Atlan.
+EdiQL fulfils all the requirements that were mentioned by team Atlan.
 
 You can run different queries on the table and view data of each table. The queries are : ALTER TABLE, ANALYZE, CREATE VIEW, DROP TABLE
 
